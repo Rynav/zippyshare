@@ -1,6 +1,6 @@
 ## Zippyshare indexes and scripts
 
-This repo contains reworked json files containing data for most zippyshare entries, fetched from [here](https://archive.org/details/archiveteam_zippyshare).
+This repo contains reworked json files containing data for every zippyshare entry fetched from [here](https://archive.org/details/archiveteam_zippyshare).
 
 ### Structures
 
